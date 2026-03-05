@@ -9,17 +9,16 @@ This platform improves hostel management by reducing manual work, ensuring fair 
 
 ## 📸 Screenshots
 
-### Student Dashboard
-![Student Dashboard](images/student_dashboard.png)
+### Main Page
+![main page](images/main.png)
 
 ### Room Allocation Panel
 ![Room Allocation](images/room_allocation.png)
 
-### Room Availability
-![Room Availability](images/room_availability.png)
+### Search 
+![search](images/search.png)
 
-### Admin Dashboard
-![Admin Dashboard](images/admin_dashboard.png)
+
 
 ---
 
