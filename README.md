@@ -52,36 +52,31 @@ This platform improves hostel management by reducing manual work, ensuring fair 
 
 ## ⚙️ Requirements
 
-Ensure the following are installed before running the project:
+To run this project, make sure the following software is installed:
 
-- **Node.js**
-- **npm (Node Package Manager)**
-- **MongoDB** (if using database integration)
-- Modern browser (Chrome / Edge / Firefox)
+- **Java Development Kit (JDK)** 8 or higher
+- **VS Code** or any Java IDE (IntelliJ IDEA / Eclipse)
+- **Java Extension Pack** for VS Code
+- **Terminal / Command Prompt**
 
----
+## 🛠 Technology Stack
 
-## 🛠️ Technology Stack
+### Programming Language
+- Java
 
-### Frontend
-- HTML
-- CSS
-- JavaScript / React (if used)
+### GUI Framework
+- Java Swing
 
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB
+### Concepts Used
+- Object-Oriented Programming (OOP)
+- Inheritance
+- Encapsulation
+- Polymorphism
 
 ### Tools
-- Git
-- GitHub
-- Postman
-
----
-
+- VS Code
+- Java Development Kit (JDK)
+- Git & GitHub
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
